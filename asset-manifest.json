@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tradeard/static/css/main.eee8a58f.css",
+    "main.js": "/tradeard/static/js/main.8dd496ba.js",
+    "index.html": "/tradeard/index.html",
+    "main.eee8a58f.css.map": "/tradeard/static/css/main.eee8a58f.css.map",
+    "main.8dd496ba.js.map": "/tradeard/static/js/main.8dd496ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee8a58f.css",
+    "static/js/main.8dd496ba.js"
+  ]
+}
