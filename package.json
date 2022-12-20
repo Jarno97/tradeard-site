@@ -2,7 +2,7 @@
   "name": "tradeard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jarno97.github.io/tradeardGit",
+  "homepage": "https://jarno97.github.io/tradeard-site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",

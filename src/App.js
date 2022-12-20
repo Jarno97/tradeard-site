@@ -4,7 +4,7 @@ import Loader from './components/Loader';
 import Contact from './components/Contact';
 import './App.css';
 import Home from './components/pages/Home';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 
 
