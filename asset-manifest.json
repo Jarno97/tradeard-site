@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tradeard/static/css/main.eee8a58f.css",
-    "main.js": "/tradeard/static/js/main.8dd496ba.js",
-    "index.html": "/tradeard/index.html",
-    "main.eee8a58f.css.map": "/tradeard/static/css/main.eee8a58f.css.map",
-    "main.8dd496ba.js.map": "/tradeard/static/js/main.8dd496ba.js.map"
+    "main.css": "./static/css/main.20fd65df.css",
+    "main.js": "./static/js/main.93a2580f.js",
+    "index.html": "./index.html",
+    "main.20fd65df.css.map": "./static/css/main.20fd65df.css.map",
+    "main.93a2580f.js.map": "./static/js/main.93a2580f.js.map"
   },
   "entrypoints": [
-    "static/css/main.eee8a58f.css",
-    "static/js/main.8dd496ba.js"
+    "static/css/main.20fd65df.css",
+    "static/js/main.93a2580f.js"
   ]
 }
