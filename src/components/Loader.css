@@ -1,0 +1,15 @@
+.loader-page {
+    height: 100vh;
+    width: 100vw;
+    background-color: #252222;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 200;
+    position: fixed;
+}
+
+.loader-page.done {
+    display: none;
+}
