@@ -16,19 +16,19 @@ function Cards() {
                     <p></p>
                     </li> */}
               <CardItem
-                src="./images/shoes1.jpg"
+                src="https://i.ibb.co/ss1dJrz/shoes1.jpg"
                 text="The latest sneakers that Nike has to offer."
                 label='Nike'
                 path='/'
               />
               <CardItem
-                src="./images/jordans.jpg"
+                src="https://i.ibb.co/1nzzQQR/jordans.jpg"
                 text="The most hyped models Air Jordan has in it's catalog"
                 label='Jordan'
                 path='/'
               />
               <CardItem
-                src="./images/NB.jpg"
+                src="https://i.ibb.co/bQXxwXp/NB.jpg"
                 text="Sneakers from the Boston based New Balance."
                 label='New Balance'
                 path='/'
